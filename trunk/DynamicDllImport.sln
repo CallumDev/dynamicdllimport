@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicDllImport", "DynamicDllImport\DynamicDllImport.csproj", "{58349480-7D2A-4599-B82A-88A2ACDD7AE2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "asmproject", "asmproject\asmproject.vcxproj", "{30B64347-2D98-429E-BDFD-39A0CF48EC6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApplication1", "WpfApplication1\WpfApplication1.csproj", "{191E3192-278B-4188-9B25-34647CBFBD89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Release|Win32.ActiveCfg = Release|Any CPU
+		{58349480-7D2A-4599-B82A-88A2ACDD7AE2}.Release|x86.ActiveCfg = Release|Any CPU
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Debug|Win32.Build.0 = Debug|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Debug|x86.ActiveCfg = Debug|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Release|Any CPU.ActiveCfg = Release|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Release|Win32.ActiveCfg = Release|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Release|Win32.Build.0 = Release|Win32
+		{30B64347-2D98-429E-BDFD-39A0CF48EC6F}.Release|x86.ActiveCfg = Release|Win32
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Debug|Win32.ActiveCfg = Debug|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Debug|x86.ActiveCfg = Debug|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Debug|x86.Build.0 = Debug|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Release|Any CPU.ActiveCfg = Release|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Release|Mixed Platforms.Build.0 = Release|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Release|Win32.ActiveCfg = Release|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Release|x86.ActiveCfg = Release|x86
+		{191E3192-278B-4188-9B25-34647CBFBD89}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
